@@ -1,0 +1,2 @@
+# VisionMeasure-AI-A4-Based-Real-Time-Object-Measurement-with-Classification
+VisionMeasure AI is a real-time computer vision system that detects, measures, and classifies physical objects using a standard A4 sheet as a reference. The project uses OpenCV for contour detection, perspective correction, and size calculation, along with MobileNetV2 for lightweight AI object classification.  ## 🚀 Features - 📏 
